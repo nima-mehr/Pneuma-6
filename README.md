@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pneuma-6
-- 👀 I’m interested in ML & AI
-- 🌱 I’m currently learning AI
+- 👋 Hi, My name is Nima. 
+- 👀 I’m interested in ML & AI.
+- 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on ideas i find interesting.
 - 📫 reach me by email.
 
